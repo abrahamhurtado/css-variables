@@ -1,0 +1,52 @@
+:root {
+    --indigo-0: #eaebfa;
+    --indigo-1: #d2d5f6;
+    --indigo-2: #b7bbf0;
+    --indigo-3: #959ce9;
+    --indigo-4: #6872e0;
+    --indigo: #0011cc;
+    --indigo-6: #000fb7;
+    --indigo-7: #000da0;
+    --indigo-8: #000a83;
+    --indigo-9: #00075c;
+}
+
+.indigo-0 {
+    color: var(--indigo-0);
+}
+
+.indigo-1 {
+    color: var(--indigo-1);
+}
+
+.indigo-2 {
+    color: var(--indigo-2);
+}
+
+.indigo-3 {
+    color: var(--indigo-3);
+}
+
+.indigo-4 {
+    color: var(--indigo-4);
+}
+
+.indigo {
+    color: var(--indigo);
+}
+
+.indigo-6 {
+    color: var(--indigo-6);
+}
+
+.indigo-7 {
+    color: var(--indigo-7);
+}
+
+.indigo-8 {
+    color: var(--indigo-8);
+}
+
+.indigo-9 {
+    color: var(--indigo-9);
+}

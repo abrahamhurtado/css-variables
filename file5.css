@@ -1,0 +1,52 @@
+:root {
+    --violet-0: #f0e9fa;
+    --violet-1: #e1d2f6;
+    --violet-2: #ceb6f0;
+    --violet-3: #b894e9;
+    --violet-4: #9966e0;
+    --violet: #5500cc;
+    --violet-6: #4c00b8;
+    --violet-7: #4300a1;
+    --violet-8: #370084;
+    --violet-9: #27005e;
+}
+
+.violet-0 {
+    color: var(--violet-0);
+}
+
+.violet-1 {
+    color: var(--violet-1);
+}
+
+.violet-2 {
+    color: var(--violet-2);
+}
+
+.violet-3 {
+    color: var(--violet-3);
+}
+
+.violet-4 {
+    color: var(--violet-4);
+}
+
+.violet {
+    color: var(--violet);
+}
+
+.violet-6 {
+    color: var(--violet-6);
+}
+
+.violet-7 {
+    color: var(--violet-7);
+}
+
+.violet-8 {
+    color: var(--violet-8);
+}
+
+.violet-9 {
+    color: var(--violet-9);
+}

@@ -1,0 +1,17 @@
+:root {
+    --color__primary: #07c;
+    --color__white: #fff;
+    --color__black: #374047;
+}
+
+.color__primary {
+    color: var(--color__primary);
+}
+
+.color__white {
+    color: var(--color__white);
+}
+
+.color__black {
+    color: var(--color__black);
+}
