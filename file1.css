@@ -1,17 +1,48 @@
+@import url('./file6.css');
 :root {
-    --color__primary: #07c;
-    --color__white: #fff;
-    --color__black: #374047;
+    --primary: #07c;
+    --white: #fff;
+    --black: #374047;
 }
 
-.color__primary {
-    color: var(--color__primary);
+.text-shadow--initial {
+    /* this variable shouldn't be processed by the ponyfill, but should work on other browsers */
+    --text-shadow--initial: 1px 1px 1px rgba(0, 0, 0, .5);
+    text-shadow: var(--text-shadow--initial);
 }
 
-.color__white {
-    color: var(--color__white);
+.color--primary {
+    color: var(--primary);
 }
 
-.color__black {
-    color: var(--color__black);
+.color--white {
+    color: var(--white);
+}
+
+.color--black {
+    color: var(--black);
+}
+
+.background-color--primary {
+    background-color: var(--primary);
+}
+
+.background-color--white {
+    background-color: var(--white);
+}
+
+.background-color--black {
+    background-color: var(--black);
+}
+
+.border-color--primary {
+    border-color: var(--primary);
+}
+
+.border-color--white {
+    border-color: var(--white);
+}
+
+.border-color--black {
+    border-color: var(--black);
 }

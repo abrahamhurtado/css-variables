@@ -6,22 +6,22 @@
     --elevation-5: 0 15px 35px hsla(0, 0%, 0%, .2);
 }
 
-.elevation-1 {
+.box-shadow--elevation-1 {
     box-shadow: var(--elevation-1);
 }
 
-.elevation-2 {
+.box-shadow--elevation-2 {
     box-shadow: var(--elevation-2);
 }
 
-.elevation {
+.box-shadow--elevation {
     box-shadow: var(--elevation);
 }
 
-.elevation-4 {
+.box-shadow--elevation-4 {
     box-shadow: var(--elevation-4);
 }
 
-.elevation-5 {
+.box-shadow--elevation-5 {
     box-shadow: var(--elevation-5);
 }
